@@ -1,0 +1,9 @@
+.more-button {
+  border: none;
+  outline: none;
+  border-radius: 30px;
+  background-color: orange;
+  font-weight: bold;
+  color: white;
+  padding: 1rem 1.5rem;
+}
